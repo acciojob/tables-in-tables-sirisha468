@@ -1,2 +1,13 @@
+table,th,td{
+	border:1px solid black;
+	overflow:hidden;
 
-/* Your CSS Code here. */
+}
+.ctable {
+	width:100%;
+	text-align:center;
+}
+#nt4{
+	background:black;
+	color:white;
+}
